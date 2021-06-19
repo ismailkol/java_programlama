@@ -1,16 +1,16 @@
 package bütünleme;
 import java.util.*;
 public class bolum9{
-	static int BirsayiGir() {
+	static int sayiGir() {
 		Scanner oku=new Scanner(System.in);
 		System.out.println("Bir sayı giriniz");
 		return oku.nextInt();
 	}
 	
    public static void main(String argc[]) {
-	     int a=BirsayiGir();
-	     int b=BirsayiGir();
-	     int c=BirsayiGir();
+	     int a=sayiGir();
+	     int b=sayiGir();
+	     int c=sayiGir();
 	     int disk=b*b-4*a*c;
 	     System.out.println(disk);
 	     if(disk<0) {
