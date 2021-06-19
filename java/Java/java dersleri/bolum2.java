@@ -21,7 +21,7 @@ import java.awt.*;
  
  
  */
-public class Onbirinci_Bölüm_2 {
+public class bolum2 {
    public static void main(String argc[]) {
 	   Dimension dm=Toolkit.getDefaultToolkit().getScreenSize();
 	   System.out.println(dm);
