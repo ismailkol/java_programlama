@@ -1,7 +1,7 @@
 package bütünleme;
 import javax.swing.*;
 import java.awt.*;
-public class Ondördüncü_Bölüm_4 extends JFrame  {
+public class j_7 extends JFrame  {
 	
 	private JCheckBox jchkMerkez=new JCheckBox("merkez");
 	private JCheckBox jchkBold=new JCheckBox("KAlın");
@@ -20,7 +20,7 @@ public class Ondördüncü_Bölüm_4 extends JFrame  {
 	
 	
 	
-	public Ondördüncü_Bölüm_4() {
+	public j_7() {
 		//mnemonik tuşlar
 		jchkMerkez.setMnemonic('M');
 		jchkBold.setMnemonic('B');
