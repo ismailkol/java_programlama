@@ -1,6 +1,6 @@
 package bütünleme;
 import java.util.*;
-public class Dördüncü_Bölüm_1 {
+public class bolum8 {
    public static void main(String argc[]) {
 	   javax.swing.JOptionPane.showMessageDialog(null, "Hoşgeldiniz", "mesaj", javax.swing.JOptionPane.PLAIN_MESSAGE);
 	  //İKİNCİ parametre içeriye yazılacak 3. başlık 4. ekranda ne ıle gelsın
