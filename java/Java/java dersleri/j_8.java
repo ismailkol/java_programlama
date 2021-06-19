@@ -2,7 +2,7 @@ package bütünleme;
 import java.awt.*;
 import javax.script.*;
 import javax.swing.*;
-public class Onikinci_Bölüm_1 {
+public class j_8 {
 /*
  javada koordinat sistemi tek farkı y ekseni tersine olmasıdır.
  javada uzunluklar pixsel cinsinden ölçülürler.
