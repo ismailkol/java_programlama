@@ -1,6 +1,6 @@
 package bütünleme;
 
-public class ch18_2 {
+public class ders1 {
 public static String someMethod(int [] array2,int x) {
 	if(x<array2.length) {
 		return String.format("%s%d",someMethod(array2,x+1),array2[x]);
