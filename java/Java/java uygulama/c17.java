@@ -1,7 +1,7 @@
 package javacalisma;
 import javax.swing.JOptionPane;
 import javax.swing.*;
-public class calısma17 {
+public class c17 {
 
 	public static void main(String[] args) {
 		//showinput ile alınır,showmessage ile basılır
