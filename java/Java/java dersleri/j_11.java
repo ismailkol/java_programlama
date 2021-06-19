@@ -1,7 +1,7 @@
 package bütünleme;
 import java.awt.*;
 import javax.swing.*;
-public class Onikinci_Bölüm_4 extends JFrame {
+public class j_11 extends JFrame {
 /*
   getGraphics() metodu kullanılıdıgında problem çıkmaktadır.Çizdirilen doğrunun kalıcı olmasını 
   isteniyorsa o zaman dogruyu paintComponent() metodu ile çizmek gerekir.
@@ -10,12 +10,12 @@ public class Onikinci_Bölüm_4 extends JFrame {
   
  */
 	
-	public Onikinci_Bölüm_4(){
+	public j_11(){
 		add(new YeniLabel());
 	}
 	
 	public static void main(String argc[]) {
-		Onikinci_Bölüm_4 deneme=new Onikinci_Bölüm_4();
+		j_11 deneme=new j_11();
 		deneme.setTitle("denemedir");
 		deneme.setSize(400, 100);
 		deneme.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
