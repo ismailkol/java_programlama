@@ -1,7 +1,7 @@
 package javacalisma;
 import java.util.EnumSet;
 
-public class calısma14 {
+public class c15 {
 	public static void main(String args[]){
 	
 		System.out.println("Türk eğitim sistemi");
