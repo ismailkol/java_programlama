@@ -1,6 +1,6 @@
 package javacalisma;
 import java.util.Scanner;
-public class calısma5 {
+public class c6 {
 public static void main(String [] args) {
 	System.out.println("Bir sayi giriniz");
 	Scanner deger=new Scanner (System.in);
