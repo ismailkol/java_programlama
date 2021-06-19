@@ -1,6 +1,6 @@
 package javacalisma;
 
-public class calısma7 {
+public class c8 {
 public static void main(String [] args ) {
 ders d1 =new ders("java","iso",10);
 System.out.println(d1.dersAdi);
