@@ -1,10 +1,10 @@
 package bütünleme;
 import javax.swing.*;
 //diyalog kutusundan string alarak stringi dönüştürme
-public class Dördüncü_Bölüm_3 {
+public class bolum10 {
    public static void main(String argc[]) {
 	System.out.println("Tam sayı girisi:");
-	   String str=JOptionPane.showInputDialog(null, "bok", "bok", JOptionPane.QUESTION_MESSAGE);
+	   String str=JOptionPane.showInputDialog(null, "null", "null", JOptionPane.QUESTION_MESSAGE);
 	   byte byteDeg=Byte.parseByte(str);
 	   System.out.println(byteDeg);
 	   short sh=Short.parseShort(str);
