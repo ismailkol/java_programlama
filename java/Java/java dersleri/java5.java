@@ -1,6 +1,6 @@
 package bütünleme;
 
-public class ch11_3 {
+public class java5 {
 
 	public static void main(String argc[]) {
 		
