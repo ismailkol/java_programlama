@@ -2,7 +2,7 @@ package bütünleme;
 
 import javax.swing.JOptionPane;
 
-public class Altıncı_Bölüm_2 {
+public class java2 {
 
 	static int YariÇap;
 	static double alan;
