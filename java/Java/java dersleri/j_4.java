@@ -12,7 +12,7 @@ import java.awt.event.ActionListener;
  * JButton(String s) ->yazılı düğme oluşturma
  * JButton(String s,Icon ı) ->yazılı ve ıkonlu düğme oluşturma
  */
-public class Ondördüncü_Bölüm_1 extends JFrame implements ActionListener  {
+public class j_4 extends JFrame implements ActionListener  {
 	private JButton button;
 	private JTextField textAlanı;
 	
