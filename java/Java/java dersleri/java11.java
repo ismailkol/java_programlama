@@ -1,6 +1,6 @@
 package bütünleme;
 
-public class ch18_1 {
+public class java11 {
 
 	public static int mystery(int  [] array2,int size) {
 		if(size==1) {
