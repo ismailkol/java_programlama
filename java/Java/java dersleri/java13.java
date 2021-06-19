@@ -2,7 +2,7 @@ package bütünleme;
 import java.awt.*;
 import javax.swing.*;
 
-public class İkinci_Bölüm_2 extends JFrame {
+public class java13 extends JFrame {
 	İkinci_Bölüm_2(){
 	add("Center",new Bayrak());
 	setTitle("Bayrak");
