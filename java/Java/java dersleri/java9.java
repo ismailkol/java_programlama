@@ -4,13 +4,13 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import javax.swing.*;
-public class ch14_4  extends JFrame{
+public class java9  extends JFrame{
 	private JButton plainb;
 	private JButton fancyB;
 
 	
 	public static void main(String argc[]) {
-		ch14_4 deneme=new  ch14_4();
+		java9 deneme=new  java9();
 		deneme.setTitle("denemedir");
 		deneme.setSize(400 , 100);
 		deneme.setLocationRelativeTo(null);
