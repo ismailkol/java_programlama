@@ -1,7 +1,7 @@
 package bütünleme;
 import javax.swing.*;
 import java.awt.*;
-public class Onbirinci_Bölüm_9 extends JFrame {
+public class j_2 extends JFrame {
 	
 	/*
 	 * JScrollPane sınıfı, taşıdığı bileşeni kaydırarak diğer elemanların görünmesini sağlar.
