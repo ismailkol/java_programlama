@@ -1,6 +1,6 @@
 package bütünleme;
 import java.util.*;
-public class ch11_1 {
+public class java3 {
 
 	
 	
