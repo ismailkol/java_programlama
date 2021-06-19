@@ -17,7 +17,7 @@ public class java9  extends JFrame{
 		deneme.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		deneme.setVisible(true);
 	}
-	ch14_4(){
+	java9(){
 		super("paşaların paşası");
 		setLayout(new FlowLayout());
 		plainb=new JButton("plain button");
