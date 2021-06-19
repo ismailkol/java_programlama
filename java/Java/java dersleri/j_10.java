@@ -5,7 +5,7 @@ public class j_10 extends JFrame {
 
 	private static JLabel ilklabel=new JLabel("ilk ulan bu");
 	
-	j_10(){
+	public j_10(){
 		Graphics grafik=ilklabel.getGraphics();
 		System.out.println(grafik);
 	}
