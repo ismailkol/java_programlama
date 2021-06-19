@@ -1,6 +1,6 @@
 package bütünleme;
 // sayıları stringe dönüştürme...
-public class Dördüncü_Bölüm_4 {
+public class bolum11 {
    public static void main(String argc[]) {
 	   String s1,s2;
 	   int x=123;
