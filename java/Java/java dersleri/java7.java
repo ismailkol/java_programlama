@@ -1,7 +1,7 @@
 package bütünleme;
 import java.awt.*;
 import javax.swing.*;
-public class ch14_2 extends JFrame {
+public class java7 extends JFrame {
 
 	private JLabel label1;
 	private JLabel label2;
