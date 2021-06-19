@@ -11,7 +11,7 @@ public class java8 extends JFrame {
 	private JPasswordField paswordf;
 	
 	public static void main(String argc[]) {
-		ch14_3 deneme=new ch14_3();
+		java8 deneme=new java8();
 		deneme.setTitle("denemedir");
 		deneme.setSize(400, 100);
 		deneme.setLocationRelativeTo(null);
@@ -19,7 +19,7 @@ public class java8 extends JFrame {
 		deneme.setVisible(true);
 	}
 	
-	ch14_3(){
+	java8(){
 		super("testir ha");
 		setLayout(new FlowLayout());
 		text1=new JTextField(10);
