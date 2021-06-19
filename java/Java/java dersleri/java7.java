@@ -9,7 +9,7 @@ public class java7 extends JFrame {
 	
 	
 	
-	ch14_2(){
+	java7 (){
 		//super("Testing JLabel");
 		setLayout(new FlowLayout());
 		label1=new JLabel("label");
@@ -28,7 +28,7 @@ public class java7 extends JFrame {
 	}
 	public static void main(String atgc[]) {
 		
-		ch14_2 deneme=new ch14_2();
+		java7  deneme=new java7 ();
 		deneme.setTitle("deneme");
 		deneme.setSize(400, 100);
 		deneme.setVisible(true);
