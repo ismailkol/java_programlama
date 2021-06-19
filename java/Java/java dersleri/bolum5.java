@@ -1,8 +1,8 @@
 package bütünleme;
 import java.awt.*;
 import javax.swing.*;
-public class Onbirinci_Bölüm_5 extends JFrame{
-    public Onbirinci_Bölüm_5() {
+public class bolum5 extends JFrame{
+    public bolum5() {
     	
     	JPanel panel=new JPanel();
     	panel.setLayout(new GridLayout(4,3));
@@ -30,7 +30,7 @@ public class Onbirinci_Bölüm_5 extends JFrame{
 	
 	public static void main(String argc[]) {
 		
-		Onbirinci_Bölüm_5 iso=new Onbirinci_Bölüm_5();
+		bolum5 iso=new bolum5();
 		
 		iso.setTitle("Mikrodalga Fırının Kapağı");
 		iso.setLocationRelativeTo(null);
