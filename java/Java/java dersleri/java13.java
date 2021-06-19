@@ -3,7 +3,7 @@ import java.awt.*;
 import javax.swing.*;
 
 public class java13 extends JFrame {
-	İkinci_Bölüm_2(){
+	java13(){
 	add("Center",new Bayrak());
 	setTitle("Bayrak");
 	setSize(300,250);
@@ -13,7 +13,7 @@ public class java13 extends JFrame {
 	
 	
    public static void main(String argc[]) {
-	   new İkinci_Bölüm_2();
+	   new java13();
 	   
    }
 }
