@@ -2,7 +2,7 @@ package bütünleme;
 import java.awt.*;
 import javax.swing.*;
 
-public class Ondördüncü_Bölüm_2 extends JFrame {
+public class j_5 extends JFrame {
 
 	
 	
