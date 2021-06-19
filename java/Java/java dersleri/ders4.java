@@ -1,7 +1,7 @@
 package bütünleme;
 import java.awt.*;
 import javax.swing.*;
-public class ch23_2 extends JPanel {
+public class ders4 extends JPanel {
 
 	private double sum;
 	public void init() {
