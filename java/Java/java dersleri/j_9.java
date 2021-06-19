@@ -1,7 +1,7 @@
 package bütünleme;
 import javax.swing.*;
 import java.awt.*;
-public class Onikinci_Bölüm_2 extends JFrame {
+public class j_9 extends JFrame {
 
 	/*
 	 Java grafik ve nokta çizme konusunda büyük kolaylık sağlar.Bu iki temel eleman kullanılarak
@@ -20,7 +20,7 @@ public class Onikinci_Bölüm_2 extends JFrame {
 	 private static JLabel ilklabel=new JLabel("ilk labeldir");
 	
 	 //parametresiz kurucu metot
-	Onikinci_Bölüm_2(){
+	j_9(){
 		Graphics grafik=ilklabel.getGraphics();
 		System.out.println(grafik);
 	}
@@ -29,7 +29,7 @@ public class Onikinci_Bölüm_2 extends JFrame {
 	
 	public static void main(String argc[]) {
 		
-		Onikinci_Bölüm_2 deneme=new Onikinci_Bölüm_2();
+		j_9 deneme=new j_9();
 		deneme.setTitle("denemedir");
 		deneme.setSize(400,100);
 		deneme.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
