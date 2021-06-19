@@ -4,7 +4,7 @@ import java.awt.*;
 import javax.swing.JLabel;
 
 
-public class calısma18 extends JFrame{
+public class c18 extends JFrame{
 	public static void main(String args[]) {
 		
 		JFrame sema=new JFrame();
