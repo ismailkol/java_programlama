@@ -2,7 +2,7 @@ package bütünleme;
 import java.util.*;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-public class ch26_1 implements Runnable {
+public class ders5 implements Runnable {
 
 	private final int SleepTime;
 	private final String taskname;
