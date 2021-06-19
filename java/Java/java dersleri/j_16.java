@@ -1,6 +1,6 @@
 package bütünleme;
 
-public class Üçüncü_Bölüm_5 {
+public class j_16 {
    public static void main(String argc[]) {
 	   //String basit veri tipi değildir.Türetilmiştir.
 	   String a="ismail kol";
