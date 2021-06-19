@@ -2,7 +2,7 @@ package bütünleme;
 import java.util.InputMismatchException;
 import java.util.*;
 public class java4 {
-   public static int işlem(int a,int b) 
+   public static int islem(int a,int b) 
 	   //aritmetik hatayı yakılıyor...
 	   throws ArithmeticException{
 	   {
@@ -22,7 +22,7 @@ public class java4 {
 				System.out.println("Payda giriniz");
 				int payda=scanner.nextInt();
 				
-				int sonuç=işlem(pay,payda);
+				int sonuç=islem(pay,payda);
 				System.out.println(sonuç);
 				continueLoop=false;
 				
