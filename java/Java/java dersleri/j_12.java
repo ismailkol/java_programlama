@@ -1,6 +1,6 @@
 package bütünleme;
 
-public class Üçüncü_Bölüm_1 {
+public class _12 {
   //basit veri tipleri(boolea,byte,short,char,int,long,float ve double)
   //basit veri tipleri static olarak tanımlanır.
   //Bu değişkenler programın çalışma sürecince aktiftir.
