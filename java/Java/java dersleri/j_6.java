@@ -13,7 +13,7 @@ public class j_6 extends JFrame implements ItemListener {
 	
 	
 	public static void main(String argc[]) {
-		Ondördüncü_Bölüm_3 deneme=new Ondördüncü_Bölüm_3();
+		 j_6  deneme=new  j_6 ();
 		deneme.setTitle("denemedir");
 		deneme.setSize(700, 100);
 		deneme.setLocationRelativeTo(null);
