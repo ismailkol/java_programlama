@@ -18,7 +18,7 @@ public class j_5 extends JFrame {
 		
 	}
 	
-	public Ondördüncü_Bölüm_2() {
+	public j_5() {
 		ImageIcon tr =new ImageIcon("/home/iso/Desktop/download.gif");
 		ImageIcon kz=new  ImageIcon("/home/iso/Desktop/kz.png");
 		
