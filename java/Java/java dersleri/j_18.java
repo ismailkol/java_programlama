@@ -1,6 +1,6 @@
 package bütünleme;
 import java.util.*;
-public class Üçüncü_Bölüm_7 {
+public class j_18 {
    public static void main(String argc[]) {
 	   
 	   int x=10;
