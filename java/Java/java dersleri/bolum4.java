@@ -1,6 +1,6 @@
 package bütünleme;
 import javax.swing.*;
-public class Onbirinci_Bölüm_4 {
+public class bolum4 {
 
 	
 	public static void main(String argc[]) {
