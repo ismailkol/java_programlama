@@ -15,8 +15,8 @@ public Ogrenci(String isim, String soyisim) {
   
   public static void main(String args[]) {
 	  List<Ogrenci> ogr_liste=new ArrayList<>();
-	  Ogrenci o1 = new Ogrenci("enes","karali");
-	  Ogrenci o2=new Ogrenci("metehan","çoşkun");
+	  Ogrenci o1 = new Ogrenci("ismail","kol");
+	  Ogrenci o2=new Ogrenci("samet","burhan");
 	  o1.ekle(ogr_liste);
 	  o2.ekle(ogr_liste);
 	  
