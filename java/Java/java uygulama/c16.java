@@ -1,6 +1,6 @@
 package javacalisma;
 import java.util.*;
-public class calısma16 {
+public class c16 {
 	public static void main(String args[]) {
 		Date d1=new Date();
 		d1.setDate(17);
@@ -12,7 +12,7 @@ public class calısma16 {
 		d2.setDate(14);
 		d2.setMonth(11);
 		d2.setYear(1998);
-		isci isci1=new isci("aleyna","urun",d2,"ktü","1");
+		isci isci1=new isci("ayse","urun",d2,"ktü","1");
 		System.out.println(isci1.yasHesapla());
 	}
 
