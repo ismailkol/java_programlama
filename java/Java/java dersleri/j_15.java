@@ -1,6 +1,6 @@
 package bütünleme;
 
-public class Üçüncü_Bölüm_4 {
+public class j_15 {
    public static void main(String argc[]) {
 	   /*
 	   character (char c) -> char tipli karakter nesnesi oluşturur.
