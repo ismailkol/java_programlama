@@ -1,6 +1,6 @@
 package bütünleme;
 
-public class İkinci_Bölüm_3 {
+public class java14 {
    public static void main(String argc[]) {
 	   
 	   System.out.println("ismail kol");
