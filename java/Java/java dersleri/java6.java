@@ -1,6 +1,6 @@
 package bütünleme;
 import javax.swing.*;
-public class ch14_1 {
+public class java6 {
 
 	
 	public static void main(String argc[]) {
