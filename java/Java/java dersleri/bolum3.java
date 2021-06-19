@@ -1,6 +1,6 @@
 package bütünleme;
 import javax.swing.*;
-public class Onbirinci_Bölüm_3 {
+public class bolum3 {
 /*
  GUI de elemanları tutmak için bir applet yada frame(çerçeve) oluşturmak gerekir
  Çerçeve oluşturmak için JFrame sınıfı kullanılır.
