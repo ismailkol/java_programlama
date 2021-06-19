@@ -2,9 +2,9 @@ package bütünleme;
 import javax.swing.*;
 import java.applet.*;
 import java.awt.*;
-public class Onbirinci_Bölüm_7 extends JFrame {
+public class bolum7 extends JFrame {
 
-	Onbirinci_Bölüm_7(){
+	bolum7(){
 		JFrame deneme=new JFrame();
 		deneme.setLayout(new GridLayout(4,3));
 		for (int i=0;i<14;i++) {
@@ -21,7 +21,7 @@ public class Onbirinci_Bölüm_7 extends JFrame {
     public static void main(String argc[]) {
     	
     
-    	Onbirinci_Bölüm_7 deneme=new Onbirinci_Bölüm_7();
+    	bolum7 deneme=new bolum7();
     	deneme.setTitle("deneme");
     	deneme.setLocationRelativeTo(null);
     	deneme.setSize(400, 400);
