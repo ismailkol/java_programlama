@@ -1,6 +1,6 @@
 package bütünleme;
 
-public class İkinci_Bölüm_1 {
+public class java12 {
 //Javanın önemli özelliği onun yürütüldüğü ortamdan bağımsız olmasıdır.
 //	(platform-independent)
 	public static void main(String argc[]) {
