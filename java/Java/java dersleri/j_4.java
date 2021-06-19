@@ -20,7 +20,7 @@ public class j_4 extends JFrame implements ActionListener  {
 	
 	public static void main(String argc[]) {
 		
-		Ondördüncü_Bölüm_1 deneme=new Ondördüncü_Bölüm_1();
+		j_4 deneme=new j_4();
 		deneme.setTitle("denemedir");
 		deneme.setLocationRelativeTo(null);
 		deneme.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
