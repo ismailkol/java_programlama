@@ -1,17 +1,17 @@
 package bütünleme;
 import java.awt.*;
 import javax.swing.*;
-public class Onikinci_Bölüm_3 extends JFrame {
+public class j_10 extends JFrame {
 
 	private static JLabel ilklabel=new JLabel("ilk ulan bu");
 	
-	Onikinci_Bölüm_3(){
+	j_10(){
 		Graphics grafik=ilklabel.getGraphics();
 		System.out.println(grafik);
 	}
 	
 	public static void main(String argc[]) {
-		Onikinci_Bölüm_3 deneme=new Onikinci_Bölüm_3();
+		j_10 deneme=new j_10();
 		deneme.setTitle("denemedir");
 		deneme.setSize(400, 100);
 		deneme.setLocationRelativeTo(null);
