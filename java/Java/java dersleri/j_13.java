@@ -1,6 +1,6 @@
 package bütünleme;
 import javax.swing.*;
-public class Üçüncü_Bölüm_2 {
+public class j_13 {
    public static void main(String argc[]) {
 	   //ASCIIde 0dan 127 kadar aralığı kapsayan 128 karakterlik bir kodlama sistemidir.
 	   //Javada 2 byte(16bit) uzunluğunda unicode kodlama sistemi kullanılır.
