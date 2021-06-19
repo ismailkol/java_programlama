@@ -1,6 +1,6 @@
 package javacalisma;
 
-public class calısma13 {
+public class c14 {
 	public static void main(String args[]) {
 		ders d1=new ders("java","comm11",10);
 		ders d2 =new ders("c++","comm2001",20);
