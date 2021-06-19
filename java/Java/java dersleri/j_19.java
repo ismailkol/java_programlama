@@ -1,6 +1,6 @@
 package bütünleme;
 import java.util.*;
-public class Üçüncü_Bölüm_8 {
+public class j_19 {
     public static void main(String argc[]) {
     	
     	System.out.println("Üst giriniz:");
