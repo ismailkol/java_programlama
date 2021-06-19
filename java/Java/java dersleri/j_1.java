@@ -1,7 +1,7 @@
 package bütünleme;
 import java.awt.*;
 import javax.swing.*;
-public class Onbirinci_Bölüm_8 extends JFrame {
+public class j_1 extends JFrame {
 
 	/*
 	 * JTextPane sınıfı; uzun ve çok satırlı metin girişleri imkanı sağlar.Aynı zamanda HTML ve RTF
