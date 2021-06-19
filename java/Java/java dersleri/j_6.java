@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.Event.*;
 import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
-public class Ondördüncü_Bölüm_3 extends JFrame implements ItemListener {
+public class j_6 extends JFrame implements ItemListener {
 
 
 	
