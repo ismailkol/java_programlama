@@ -1,6 +1,6 @@
 package bütünleme;
 
-public class Üçüncü_Bölüm_3 {
+public class j_14 {
    public static void main(String argc[]) {
 	   
 	   System.out.println("Hoşgeldiniz");
