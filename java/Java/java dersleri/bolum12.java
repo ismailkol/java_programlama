@@ -1,6 +1,6 @@
 package bütünleme;
 //Formatlı yazdırma ve String sınıfı
-public class Dördüncü_Bölüm_5 {
+public class bolum12 {
    public static void main(String argc[]) {
 	   
 	   int x=200000000;
