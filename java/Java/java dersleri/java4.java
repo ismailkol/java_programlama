@@ -1,7 +1,7 @@
 package bütünleme;
 import java.util.InputMismatchException;
 import java.util.*;
-public class ch11_2 {
+public class java4 {
    public static int işlem(int a,int b) 
 	   //aritmetik hatayı yakılıyor...
 	   throws ArithmeticException{
