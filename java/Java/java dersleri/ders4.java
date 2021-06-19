@@ -20,7 +20,7 @@ public class ders4 extends JPanel {
 	public static void main(String argc[]) {
 		
 		JFrame deneme=new JFrame();
-		deneme.getContentPane().add(new ch23_2());
+		deneme.getContentPane().add(new ders4());
 		deneme.setTitle("denemedir");
 		deneme.setSize(200, 200);
 		deneme.setLocationRelativeTo(null);
