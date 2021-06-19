@@ -10,7 +10,7 @@ public class j_7 extends JFrame  {
 	
 	public static void main(String argc[]) {
 		
-		Ondördüncü_Bölüm_4 deneme=new Ondördüncü_Bölüm_4();
+		j_7 deneme=new j_7();
 		deneme.setTitle("denemedi");
 		deneme.setSize(500, 100);
 		deneme.setLocationRelativeTo(null);
