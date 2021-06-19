@@ -1,6 +1,6 @@
 package javacalisma;
 
-public class calısma6 {
+public class c7 {
  public static void main(String [] argc) {
 	/* int i =6;
 	 while(i>0) {
