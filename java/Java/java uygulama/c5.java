@@ -1,6 +1,6 @@
 package javacalisma;
 
-public class calısma4 {
+public class c5 {
   public static void main(String [] args) {
 	  boolean uyelik = true;
 	  
