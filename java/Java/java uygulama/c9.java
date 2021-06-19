@@ -1,6 +1,6 @@
 package javacalisma;
 
-public class calısma8 {
+public class c9 {
 public static void main(String args[] ) {
 	int liste[]=new int [5];
 	liste[0]=1;
