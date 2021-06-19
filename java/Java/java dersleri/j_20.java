@@ -1,6 +1,6 @@
 package bütünleme;
 import javax.swing.*;
-public class Üçüncü_Bölüm_9 {
+public class j_20 {
    public static void main(String argc[]) {
 	   int n=10;
 	   JOptionPane.showMessageDialog(null, "\n 2 ve 3 tam bölünür ? "+(n%3==0 && n%2 ==0)+"\n 2 veya 3 tam bölünür "+(n%3==0 || n%2==0));
