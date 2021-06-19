@@ -3,7 +3,7 @@ import java.applet.*;
 import java.awt.BorderLayout;
 
 import javax.swing.*;
-public class Onbirinci_Bölüm_6 extends JFrame{
+public class bolum6 extends JFrame{
 
 	
 	
