@@ -7,7 +7,7 @@ package bütünleme;
  * Referans değişkenler verinin bellekte işgal ettiği yerin adresini taşıyan adreslerdir.
  * Class,enum ve dizi basit olmayan veri tipleridir.
  */
-public class Altıncı_Bölüm_1 {
+public class java1 {
 	static int yaricap;
 	static double alan;
 	public static double AlanHesap() {
