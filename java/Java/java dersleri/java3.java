@@ -4,7 +4,7 @@ public class java3 {
 
 	
 	
-	public static int işlem(int a,int b) {
+	public static int islem(int a,int b) {
 		
 		return a/b;
 	}
@@ -18,7 +18,7 @@ public class java3 {
 		System.out.println("Payda giriniz");
 		int denominator=scanner.nextInt();
 		
-   int result=işlem(numerator,denominator);
+   int result=islem(numerator,denominator);
    System.out.printf("Result: %d %d %d", numerator,denominator,result);
 	}
 	
