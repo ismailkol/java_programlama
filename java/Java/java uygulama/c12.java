@@ -1,6 +1,6 @@
 package javacalisma;
 
-public class calısma11 {
+public class c12 {
 	public static void main(String args[]) {
 		System.out.println(Math.floor(3.2));//aşağıya yuvarlama
 		System.out.println(Math.ceil(3.2));//yukarı yuvarlama
