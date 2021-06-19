@@ -3,7 +3,7 @@ import java.awt.Dimension;
 import java.awt.Graphics;
 
 import javax.swing.*;
-public class ch23_1 extends JPanel{
+public class ders3 extends JPanel{
 	
 
 	public void paint(Graphics g) {
