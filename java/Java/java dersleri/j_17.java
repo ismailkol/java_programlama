@@ -1,6 +1,6 @@
 package bütünleme;
 
-public class Üçüncü_Bölüm_6 {
+public class j_17 {
    public static void main(String argc[]) {
 	   
 	   //Stringlerde karşılaştırma unicode göre yapılmaktadır.
