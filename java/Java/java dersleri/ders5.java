@@ -8,7 +8,7 @@ public class ders5 implements Runnable {
 	private final String taskname;
 	private final static Random generator=new Random();
 	
-	public ch26_1(String name) {
+	public ders5(String name) {
 		this.taskname=name;
 		SleepTime=generator.nextInt(5000);
 		
@@ -24,9 +24,9 @@ public class ders5 implements Runnable {
 	}
 	public static void main(String argc[]) {
 		
-		ch26_1 deneme1=new ch26_1("deneme1");
-		ch26_1 deneme2=new ch26_1("deneme2");
-		ch26_1 deneme3=new ch26_1("deneme3");
+		ders5 deneme1=new ders5("deneme1");
+		ders5 deneme2=new ders5("deneme2");
+		ders5 deneme3=new ders5("deneme3");
 		
 		ExecutorService threadExecutor=Executors.newCachedThreadPool();
 		threadExecutor.execute(deneme1);
