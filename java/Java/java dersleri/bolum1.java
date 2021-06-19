@@ -1,6 +1,6 @@
 package bütünleme;
 import javax.swing.*;
-public class Onbirci_Bölüm_1 {
+public class bolum1 {
 /*
  GUI nesneleri ->JButton,JLabel,JtextField,JCheckBox,JRadioButton ve JComboBox 
  sınıfları tarafından oluşturulucaktır.
