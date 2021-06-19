@@ -1,6 +1,6 @@
 package bütünleme;
 
-public class İkinci_Bölüm_5 {
+public class java16 {
 	
 	static void Yaz() {
 		System.out.println("Hoşgeldiniz");
