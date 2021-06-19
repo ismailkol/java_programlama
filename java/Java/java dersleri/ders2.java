@@ -1,6 +1,6 @@
 package bütünleme;
 
-public class ch18_3 {
+public class ders2 {
     public static long factoriel1(long a) {
     	if(a<=1) {
     		return 1;
