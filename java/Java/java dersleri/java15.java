@@ -1,6 +1,6 @@
 package bütünleme;
 
-public class İkinci_Bölüm_4 {
+public class java15 {
 	static final double pi=3.14;
 	static int YariÇap=10;
 	//static tanımlamak zorundasındır.
