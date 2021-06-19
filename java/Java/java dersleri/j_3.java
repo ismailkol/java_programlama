@@ -1,7 +1,7 @@
 package bütünleme;
 import java.awt.*;
 import javax.swing.*;
-public class Onbirinci_Bölüm_10 extends JFrame {
+public class j_3 extends JFrame {
 /*
  * JTabbedPane üzerinde taşıdığı panelleri bölünmüş sekmeler şeklinde sıralar.Bu sayede istenilen
  * sekme kolayca seçilebilir.
