@@ -1,6 +1,6 @@
 package bütünleme;
 import java.util.*;
-public class Dördüncü_Bölüm_2 {
+public class bolum9{
 	static int BirsayiGir() {
 		Scanner oku=new Scanner(System.in);
 		System.out.println("Bir sayı giriniz");
