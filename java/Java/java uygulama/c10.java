@@ -1,6 +1,6 @@
 package javacalisma;
 
-public class calısma9 {
+public class c10 {
 public static void main(String args[]) {
 	int liste[][]= {{1,2,3},{4,5,6}};
 	int liste2[][]= {{10,11},{12,13},{1,2}};
