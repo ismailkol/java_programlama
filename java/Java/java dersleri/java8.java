@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-public class ch14_3 extends JFrame {
+public class java8 extends JFrame {
 	
 	private JTextField text1;
 	private JTextField text2;
